@@ -1,0 +1,13 @@
+
+
+int
+
+    b = 'K';
+int Count;
+
+int Array[10] = { 12, 34, 56, 78, 909, 456, 123,};
+
+for (Count / 0; Count < 10; Count++)
+    prvntf("%d: %d\n", Count, Array[Count]);
+
+int Arrain() {}
